@@ -1,18 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0026cb2a-a1eb-4048-9a31-fd3c546c8bde" name="Changes" comment="" />
+    <list default="true" id="0026cb2a-a1eb-4048-9a31-fd3c546c8bde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/Consulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/Medico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/TestaConsulta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/Leitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/TestaEmprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio3/Atleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio3/TestaContratacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio3/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio4/Programador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio4/Projeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio4/TestaProjeto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio5/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio5/Processador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio5/TestaComputador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio6/Apartamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio6/Edificio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio6/TestaEdificio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/ItemVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/TestaVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/Ingresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/Sessao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/TestaCinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3BEXANrghEKohGVZEWhZBZCE1ky" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,6 +59,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestaCinema.executor": "Run",
+    "Application.TestaComputador.executor": "Run",
+    "Application.TestaConsulta.executor": "Run",
+    "Application.TestaContratacao.executor": "Run",
+    "Application.TestaEdificio.executor": "Run",
+    "Application.TestaEmprestimo.executor": "Run",
+    "Application.TestaProjeto.executor": "Run",
+    "Application.TestaVenda.executor": "Run",
     "Application.TestaViagem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -27,7 +74,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/1090482513011.FATEC/Desktop/poo-2026n-main/Revisao_JavaPOO/JavaPOOFatec/JavaPOOFatec",
+    "last_opened_file_path": "C:/Users/Luciano/Desktop/JavaPOO/JavaPOOFatec",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,7 +82,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>

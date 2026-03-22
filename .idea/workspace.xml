@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0026cb2a-a1eb-4048-9a31-fd3c546c8bde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/Consulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/Paciente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio1/TestaConsulta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/Emprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/Leitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio2/TestaEmprestimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio3/Atleta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio3/TestaContratacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio3/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio4/Programador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio4/Projeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio4/TestaProjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio5/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio5/Processador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio5/TestaComputador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio6/Apartamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio6/Edificio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio6/TestaEdificio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/ItemVenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/TestaVenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio7/Venda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/Ingresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/Sessao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ExerciciosRevisao/Exercicio8/TestaCinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0026cb2a-a1eb-4048-9a31-fd3c546c8bde" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

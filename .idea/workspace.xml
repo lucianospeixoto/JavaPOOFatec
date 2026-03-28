@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0026cb2a-a1eb-4048-9a31-fd3c546c8bde" name="Changes" comment="" />
+    <list default="true" id="0026cb2a-a1eb-4048-9a31-fd3c546c8bde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Heranca/Desenvolvedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heranca/Junior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heranca/Pleno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heranca/Senior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heranca/testaDesenvolvedor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +48,8 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Luciano/Desktop/JavaPOO/JavaPOOFatec",
+    "last_opened_file_path": "C:/Users/1090482513011.FATEC/Desktop/27032026JAVA/JavaPOOFatec",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,6 +57,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -61,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774055058808</updated>
       <workItem from="1774055059905" duration="2279000" />
+      <workItem from="1774695065478" duration="303000" />
     </task>
     <servers />
   </component>
